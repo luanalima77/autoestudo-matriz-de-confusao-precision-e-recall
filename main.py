@@ -32,10 +32,8 @@ def gerar_matriz_de_confusao(reais, preditos, labels):
             tn += 1 if v_predito == v_real else 0
             fn += 1 if v_predito != v_real else 0
 
-        return np.array[
-            [tp, fp],
-            [fn, tn]
-        ]
-    
+    return np.array([[tp, fp],[fn, tn]])
+
+print(gerar_matriz_de_confusao(reais=valores_reais, preditos=valores_preditos, labels=[1,0]))
 
         
