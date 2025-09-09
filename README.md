@@ -1,0 +1,2 @@
+# Autoestudo: matriz de confusão, precision e recall
+Entendimento de matriz de confusão e de métricas associadas por meio do site https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509
