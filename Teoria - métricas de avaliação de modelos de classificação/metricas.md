@@ -1,4 +1,4 @@
-## 📊 Métricas de avaliação em modelos de classificação
+# 📊 Métricas de avaliação em modelos de classificação
 
 Em problemas de classificação, as métricas são utilizadas para avaliar o desempenho de um modelo, comparando os valores reais com os valores preditos.
 
@@ -25,6 +25,7 @@ Real  1   TP    FN
 
 ## 🎯Métrica 1: acurácia (accuracy)
 A acurácia indica a proporção de previsões corretas em relação ao total. Sua fórmula é dada por:
+
 $$
 Acurácia = \frac{TP + TN}{TP + TN + FP + FN}
 $$
