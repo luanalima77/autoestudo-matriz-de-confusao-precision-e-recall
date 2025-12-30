@@ -1,4 +1,4 @@
-# 📊 Como-mostrar-matriz-de-confusao-no-terminal
+# 📊 Entendendo matriz de confusão e gerando uma no terminal
 
 Este repositório apresenta um autoestudo prático sobre matriz de confusão, gerando uma no terminal
 O estudo foi realizado com base neste artigo do Medium: <a href = "https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509">clique aqui para ver o artigo</a>
