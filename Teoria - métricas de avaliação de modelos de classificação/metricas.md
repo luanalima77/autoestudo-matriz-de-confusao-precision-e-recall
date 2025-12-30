@@ -32,12 +32,14 @@ $$
 
 ## 🔎 Métrica 2: precisão (precision)
 A precisão mede quantos dos valores preditos como positivos realmente são positivos. Sua fórmula é dada por:
+
 $$
 Precisão = \frac{TP}{TP + FP}
 $$
 
 ## 🔁 Métrica 3: recall (sensibilidade)
 O recall indica quantos dos valores positivos reais foram corretamente identificados pelo modelo. Sua fórmula é dada por:
+
 $$
 Recall = \frac{TP}{TP + FN}
 $$
@@ -50,6 +52,7 @@ Em muitos problemas, é necessário encontrar um equilíbrio entre essas duas m�
 
 ## ⚖️ Métrica 4: F1-score
 O F1-score é a média harmônica entre precisão e recall, sendo útil quando é necessário equilibrar falsos positivos e falsos negativos. Sua fórmula é dada por:
+
 $$
 F1 = \frac{2 \cdot Precision \cdot Recall}{Precision + Recall}
 $$
